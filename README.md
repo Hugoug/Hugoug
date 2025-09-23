@@ -1,4 +1,13 @@
-## Hi there 👋
+# Proyectos
+## Desarrollo de Aplicaciones Multiplataforma
+### IES Alonso de Ercilla
+
+---
+
+#### Proyectos desarrollados
+**Proyectos en C# y XAML (Avalonia)**
+1. Gestión de bolígrafos
+2. Almacen lo que sea
 
 <!--
 **Hugoug/Hugoug** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
