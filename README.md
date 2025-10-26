@@ -8,6 +8,8 @@
 **Proyectos en C# y XAML (Avalonia)**
 1. [Gestión de bolígrafos](https://github.com/Hugoug/bindings)
 2. [Menús](https://github.com/Hugoug/menus)
+3. [Login estándar](https://github.com/Hugoug/multiplataforma)
+4. En proceso...
 
 <!--
 **Hugoug/Hugoug** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
